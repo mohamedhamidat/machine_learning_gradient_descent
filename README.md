@@ -21,3 +21,5 @@ To run the example, simply run the `main.py` file using Python
 python main.py
 ```
 
+### Example
+https://user-images.githubusercontent.com/10097097/32468717-50dedf2a-c347-11e7-821c-38bf9b59f881.PNG
