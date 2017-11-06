@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/mohamedhamidat/machine_learning_gradient_descent.svg?branch=master)](https://travis-ci.org/mohamedhamidat/machine_learning_gradient_descent)
+
+
 ## Gradient Descent Example for Linear Regression
 This is a simple UI developed to calculate and plot gradient descent.
 
@@ -17,4 +20,7 @@ To run the example, simply run the `main.py` file using Python
 ```
 python main.py
 ```
+
+### Example
+![alt text](https://user-images.githubusercontent.com/10097097/32469271-c14979b2-c349-11e7-8b8a-645900eb3073.PNG)
 
