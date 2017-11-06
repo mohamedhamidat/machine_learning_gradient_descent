@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/mohamedhamidat/machine_learning_gradient_descent.svg?branch=master)](https://travis-ci.org/mohamedhamidat/machine_learning_gradient_descent)
+
+
 ## Gradient Descent Example for Linear Regression
 This is a simple UI developed to calculate and plot gradient descent.
 
