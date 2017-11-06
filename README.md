@@ -1,8 +1,10 @@
 [![Build Status](https://travis-ci.org/mohamedhamidat/machine_learning_gradient_descent.svg?branch=master)](https://travis-ci.org/mohamedhamidat/machine_learning_gradient_descent)
 
+## Credit
+Credit for the vast majority of code here goes to [Matt Nedrich](https://github.com/mattnedrich/GradientDescentExample)
 
 ## Gradient Descent Example for Linear Regression
-This is a simple UI developed to calculate and plot gradient descent.
+I have developed UI and ploting part.
 
 In this example, the project demonstrates how the [gradient descent](http://en.wikipedia.org/wiki/Gradient_descent) algorithm may be used to solve a [linear regression](http://en.wikipedia.org/wiki/Linear_regression) problem. A more detailed description of this example can be found [here](https://github.com/mattnedrich/GradientDescentExample).
 
