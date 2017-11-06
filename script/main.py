@@ -25,11 +25,11 @@ class Main(QtGui.QMainWindow):
         self.ui.submit_Btn.clicked.connect(self.run)
 
     def run(self):
-        file_name = self.ui.file_path_textEdit.toPlainText()
-        iterations = int(self.ui.iterations_textEdit.toPlainText())
-        delimiter = self.ui.delimiter_textEdit.toPlainText()
-        learning_rate = float(self.ui.learning_rate_textEdit.toPlainText())
         try:  
+            file_name = self.ui.file_path_textEdit.toPlainText()
+            iterations = int(self.ui.iterations_textEdit.toPlainText())
+            delimiter = self.ui.delimiter_textEdit.toPlainText()
+            learning_rate = float(self.ui.learning_rate_textEdit.toPlainText())
             get_gradient_descent(file_name, learning_rate, delimiter, iterations)
         except Exception as ex:
             self.display_error(str(ex))
